@@ -78,7 +78,7 @@ def start_menu():
                     exit()  # Exit game
 
         screen.fill((0, 0, 0))
-        title_text = font.render("Ball Game", True, (255, 255, 255))
+        title_text = font.render("Monkey Game", True, (255, 255, 255))
         start_text = font.render("1. Start New Game", True, (255, 255, 255))
         highscore_text = font.render("2. View High Scores", True, (255, 255, 255))
         exit_text = font.render("3. Exit", True, (255, 255, 255))
