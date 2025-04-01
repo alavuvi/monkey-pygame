@@ -25,7 +25,7 @@ jobs:
         
     - name: Build with PyInstaller
       run: |
-        pyinstaller --onefile --add-data "highscore.txt:." your_main_file.py
+        pyinstaller --onefile --add-data your_main_file.py
         
     - name: Create Release
       id: create_release
