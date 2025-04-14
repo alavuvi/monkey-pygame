@@ -13,4 +13,4 @@ HAVE FUN PLAYING!
 In to do list for future are graphics (Ball should look like monkey and butterfly, hmmm butterfly.)
 
 ## Release
-Release is built with GitHub Actions and runs on Windows machines. There is no Mac or Linux version yet.
+Release is built with GitHub Actions and runs on Windows machines. There is no Mac or Linux version yet, but maybe in the future.
